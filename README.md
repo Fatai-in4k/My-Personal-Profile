@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">Welcome to my portfolio profile! I'm Fatai, a highly motivated and dedicated Frontend Developer with a passion for Creating and designing websites. This portfolio showcases my skills, achievements and experience in Web Design.</p>
 
 ###
