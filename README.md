@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">Welcome to my portfolio profile! I'm Fatai, a highly motivated and dedicated Frontend Developer with a passion for Creating and designing websites. This portfolio showcases my skills, achievements and experience in Web Design.</p>
 
 ###
@@ -49,6 +50,11 @@
 </div>
 
 ###
+=======
+HEY
+
+Welcome to my portfolio profile! I'm Fatai, a highly motivated and dedicated Frontend Developer with a passion for Creating and designing websites. This portfolio showcases my skills, achievments and experience in Web Design.
+>>>>>>> 9461adf55d0e45c6a95c7db40e6a7277f9d7ce78
 
 Key Features
 Projects: A collection of my most notable projects, demonstrating my skills and expertise in Web Design.
@@ -76,4 +82,7 @@ Email: abdulfatai177@gmail.com
 LinkedIn: null
 GitHub: Fatai-in4k
 Thank you for visiting my portfolio...
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9461adf55d0e45c6a95c7db40e6a7277f9d7ce78
